@@ -13,3 +13,11 @@
 
 ### Test
 `yarn test`
+
+## Docker
+
+### Build
+`docker build -t djm/ang-app:latest .`
+
+### Run container
+`docker run -d -p 80:80 djm/ang-app:latest`
