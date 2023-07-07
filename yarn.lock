@@ -5160,10 +5160,10 @@ schema-utils@^4.0.0:
     ajv-formats "^2.1.1"
     ajv-keywords "^5.1.0"
 
-screen-recording@^1.0.4:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/screen-recording/-/screen-recording-1.0.4.tgz#1d1eddd7c797a9f49b5fa16efca9a545b4ce575e"
-  integrity sha512-ne3UHmn5nENdD9GS6AmeJqTl6uHiJeWcn4NB7driEC6FxKaKl0z3mfsGPQkAMA7nPMjo6KdfS6PUOLzYbQ+kVA==
+screen-recording@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/screen-recording/-/screen-recording-1.0.5.tgz#e5e3fbb54cbed9e3706718eceb9b79125434ba74"
+  integrity sha512-iWGJBy2F1XY21jMmuDY59p+L+r6KMlTL59lk8AxsB5VywUFBrOj5v0S3oLOpe1LXE66G6M84l065CpRjwV0GMQ==
 
 select-hose@^2.0.0:
   version "2.0.0"

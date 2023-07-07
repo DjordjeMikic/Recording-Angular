@@ -21,3 +21,6 @@
 
 ### Run container
 `docker run -d -p 80:80 djm/ang-app:latest`
+
+## Example
+[Recording app](https://djordjemikic.github.io/Recording-Angular/)
