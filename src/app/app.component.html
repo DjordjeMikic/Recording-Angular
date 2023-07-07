@@ -1,7 +1,7 @@
 <div id="wrap" class="{{ this.blinking ? 'wrap-bg-red' : 'wrap-bg' }}">
   <h1>{{ title }}</h1>
   <button
-    [class]="{ 'rnd-button': true, 'white': this.interval, 'red': !this.interval}"
+    [class]="{ 'rnd-button': true, 'white': this.interval, 'red': !this.interval }"
     [title]="this.interval ? 'Stop Recording': 'Start Recording'"
     (click)="this.interval ? recording.stopRecording() : recording.startRecording()"
   >

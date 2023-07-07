@@ -34,6 +34,9 @@ export class AppComponent {
       console.log(chunk);
     },
     interval: 4000,
+    onEnded: () => {
+      this.recording.stopRecording();
+    },
   });
 
   ngDoCheck() {
